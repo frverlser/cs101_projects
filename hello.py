@@ -1,6 +1,4 @@
-
-  
- # This program asks for the user's name and then greets them.
+# This program asks for the user's name and then greets them.
 
 # 1. Display a prompt asking the user for their name.
 # The text the user types is stored in 'user_name'.
