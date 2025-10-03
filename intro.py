@@ -1,0 +1,6 @@
+input("Name")
+input("major")
+input("hobby")
+print("Name")
+print("major")
+print("hobby")
